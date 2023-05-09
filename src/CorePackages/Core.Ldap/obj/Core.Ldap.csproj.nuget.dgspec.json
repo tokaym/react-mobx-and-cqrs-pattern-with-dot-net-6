@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Ldap/Core.Ldap.csproj": {}
+  },
+  "projects": {
+    "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Ldap/Core.Ldap.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Ldap/Core.Ldap.csproj",
+        "projectName": "Core.Ldap",
+        "projectPath": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Ldap/Core.Ldap.csproj",
+        "packagesPath": "/Users/mustafatokay/.nuget/packages/",
+        "outputPath": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Ldap/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mustafatokay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Security/Core.Security.csproj": {
+                "projectPath": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Security/Core.Security.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ADODB": {
+              "target": "Package",
+              "version": "[7.10.3077, )"
+            },
+            "System.DirectoryServices": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Persistence/Core.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Persistence/Core.Persistence.csproj",
+        "projectName": "Core.Persistence",
+        "projectPath": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Persistence/Core.Persistence.csproj",
+        "packagesPath": "/Users/mustafatokay/.nuget/packages/",
+        "outputPath": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mustafatokay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Security/Core.Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Security/Core.Security.csproj",
+        "projectName": "Core.Security",
+        "projectPath": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Security/Core.Security.csproj",
+        "packagesPath": "/Users/mustafatokay/.nuget/packages/",
+        "outputPath": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Security/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mustafatokay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Persistence/Core.Persistence.csproj": {
+                "projectPath": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Persistence/Core.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.20.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

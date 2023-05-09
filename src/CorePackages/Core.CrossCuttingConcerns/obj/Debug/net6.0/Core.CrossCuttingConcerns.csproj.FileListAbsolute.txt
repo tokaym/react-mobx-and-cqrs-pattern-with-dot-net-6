@@ -1,0 +1,12 @@
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.CrossCuttingConcerns/bin/Debug/net6.0/Core.CrossCuttingConcerns.deps.json
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.CrossCuttingConcerns/bin/Debug/net6.0/Core.CrossCuttingConcerns.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.CrossCuttingConcerns/bin/Debug/net6.0/ref/Core.CrossCuttingConcerns.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.CrossCuttingConcerns/bin/Debug/net6.0/Core.CrossCuttingConcerns.pdb
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.AssemblyInfo.cs
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/ref/Core.CrossCuttingConcerns.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.pdb

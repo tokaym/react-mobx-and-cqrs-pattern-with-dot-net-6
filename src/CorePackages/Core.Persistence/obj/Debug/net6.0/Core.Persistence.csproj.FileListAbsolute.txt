@@ -1,0 +1,12 @@
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Persistence/bin/Debug/net6.0/Core.Persistence.deps.json
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Persistence/bin/Debug/net6.0/Core.Persistence.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Persistence/bin/Debug/net6.0/ref/Core.Persistence.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Persistence/bin/Debug/net6.0/Core.Persistence.pdb
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.csproj.AssemblyReference.cache
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.AssemblyInfoInputs.cache
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.AssemblyInfo.cs
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.csproj.CoreCompileInputs.cache
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Persistence/obj/Debug/net6.0/ref/Core.Persistence.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.pdb

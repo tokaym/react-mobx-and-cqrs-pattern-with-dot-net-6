@@ -1,0 +1,79 @@
+body {
+  background-color: #eaeaea !important;
+}
+
+.ui.inverted.top.fixed.menu {
+  background-image: linear-gradient(120deg,
+  rgb(217, 43, 43)5%,
+      rgb(217, 43, 43) 90%,
+      rgb(254, 254, 254) 90%) !important;
+}
+
+.ui.vertical.sidebar.menu {
+  overflow: visible !important;
+}
+
+.ui.red.top.attached.label {
+  margin: auto;
+}
+
+.react-calendar {
+  width: 100%;
+  border: none;
+  box-shadow: 0 1px 2px 0 rgb(34, 36, 38, 15%)
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+
+/*home page styles*/
+
+.masthead {
+  display: flex;
+  align-items: center;
+  background-image: linear-gradient(135deg,
+      rgb(17, 17, 17) 0%,
+      rgb(28, 28, 28) 50%,
+      rgb(227, 28, 37) 90%) !important;
+  height: 100vh;
+}
+
+.masthead .ui.menu .ui.button,
+.ui.menu a.ui.inverted.button {
+  margin-left: 0.5em;
+}
+
+.masthead h1.ui.header {
+  font-size: 4em;
+  font-weight: normal;
+}
+
+.masthead h2 {
+  font-size: 1.7em;
+  font-weight: normal;
+}
+
+/*end home page styles*/
+
+.ui.inverted.vertical.labeled.icon.ui.push.left.thin.visible.sidebar.sidebar-menu.menu {
+  background-image: linear-gradient(120deg,
+      rgb(17, 17, 17) 0%,
+      rgb(200, 92, 92) 70%,
+      rgb(227, 28, 37) 90%) !important;
+
+}
+
+.ui.labeled.input>.label {
+  width: 5em;
+}
+
+.ui.disabled.input, .ui.input:not(.disabled) input[disabled] {
+  opacity: .90 !important;
+}
+
+.ui.form .disabled.field, .ui.form .disabled.fields .field, .ui.form .field :disabled {
+  pointer-events: none;
+  opacity: .60 !important;
+}

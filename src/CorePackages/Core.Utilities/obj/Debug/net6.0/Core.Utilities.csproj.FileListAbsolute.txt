@@ -1,0 +1,12 @@
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Utilities/bin/Debug/net6.0/Core.Utilities.deps.json
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Utilities/bin/Debug/net6.0/Core.Utilities.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Utilities/bin/Debug/net6.0/ref/Core.Utilities.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Utilities/bin/Debug/net6.0/Core.Utilities.pdb
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Utilities/obj/Debug/net6.0/Core.Utilities.csproj.AssemblyReference.cache
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Utilities/obj/Debug/net6.0/Core.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Utilities/obj/Debug/net6.0/Core.Utilities.AssemblyInfoInputs.cache
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Utilities/obj/Debug/net6.0/Core.Utilities.AssemblyInfo.cs
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Utilities/obj/Debug/net6.0/Core.Utilities.csproj.CoreCompileInputs.cache
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Utilities/obj/Debug/net6.0/Core.Utilities.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Utilities/obj/Debug/net6.0/ref/Core.Utilities.dll
+/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/CorePackages/Core.Utilities/obj/Debug/net6.0/Core.Utilities.pdb

@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "dgSpecHash": "250inMCaa5p/u29NysnQtxVWcxhADmdx37gw5Xe1ljlGYBEEG0hZt19nbIqo1VbTTTHPiC3M5ssYdKTPyz/aHg==",
+  "success": true,
+  "projectFilePath": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Ldap/Core.Ldap.csproj",
+  "expectedPackageFiles": [
+    "/Users/mustafatokay/.nuget/packages/adodb/7.10.3077/adodb.7.10.3077.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.entityframeworkcore/6.0.5/microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.5/microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.5/microsoft.entityframeworkcore.analyzers.6.0.5.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.identitymodel.abstractions/6.20.0/microsoft.identitymodel.abstractions.6.20.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.20.0/microsoft.identitymodel.jsonwebtokens.6.20.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.identitymodel.logging/6.20.0/microsoft.identitymodel.logging.6.20.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.identitymodel.tokens/6.20.0/microsoft.identitymodel.tokens.6.20.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.directoryservices/6.0.0/system.directoryservices.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.identitymodel.tokens.jwt/6.20.0/system.identitymodel.tokens.jwt.6.20.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ADODB 7.10.3077' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ADODB",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

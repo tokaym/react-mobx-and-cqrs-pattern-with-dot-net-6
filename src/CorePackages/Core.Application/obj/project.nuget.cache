@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNA18gonOWxw9zfBv/h6AnCcMExrqF2Fwddf5KSQq5o2xwa/wFNAk2Ru2xlETBf95cm3BhH9NyHPCpffGg3H0Q==",
+  "success": true,
+  "projectFilePath": "/Users/mustafatokay/Projects/arcelik/Arcelik.Spare/src/corePackages/Core.Application/Core.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/mustafatokay/.nuget/packages/fluentvalidation/11.0.1/fluentvalidation.11.0.1.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.0.1/fluentvalidation.dependencyinjectionextensions.11.0.1.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/mustafatokay/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
