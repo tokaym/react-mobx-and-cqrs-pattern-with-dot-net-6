@@ -10,16 +10,16 @@
 
 To run this project, install it locally using npm:
 
-$ cd ../client
-$ npm install
-$ npm start
+* $ cd ../client
+* $ npm install
+* $ npm start
 
 Create your first migration and update database
 
-$ cd /src/spm/Persistence
-$ dotnet ef --startup-project ../api migrations add "FirstMigration"
-$ cd /src/spm/api
-$ dotnet ef update database
+* $ cd /src/spm/Persistence
+* $ dotnet ef --startup-project ../api migrations add "FirstMigration"
+* $ cd /src/spm/api
+* $ dotnet ef update database
 
 ## Source
 
